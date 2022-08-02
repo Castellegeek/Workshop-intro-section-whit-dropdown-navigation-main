@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@500;700&display=swap');
+.first-card{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    background-color: hsl(0, 0%, 98%);
+}
+.img-hero{
+    height: 36em;
+    width: 27em;
+    position: relative;
+    top: 3.5cm;
+    left: 28cm;
+
+}
+
+.encadrement-arrondi{
+    background-color: black;
+    border-top-left-radius: 1.1rem;
+    border-bottom-left-radius: 1.1rem;
+    border-top-right-radius: 1.1rem;
+    border-bottom-right-radius: 1.1rem;
+    height: 3.5em;
+    width: 10rem;
+    display: flex;
+    position: relative;
+    top: 15cm;
+    right: 4cm;
+    
+}
+.parent-des-textes{
+   
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.learn-more{
+     display: flex;
+     position: relative;
+     right: 10cm;
+     font-family: 'Epilogue', sans-serif;
+     font-size: 19px;
+     color: hsl(0, 0%, 98%);
+     top: 15.7em;
+     right: 3.4cm;
+     letter-spacing: 1px;
+    
+    
+}
+.Make-remote-Work{
+     display: flex;
+     font-family: 'Epilogue', sans-serif;
+     font-size: 2cm;
+     position: relative;
+     right: 4cm;
+     bottom: 3.5cm;
+}
+.Get-your-team{
+    display: flex;
+    font-family: 'Epilogue', sans-serif;
+    color: hsl(0, 0%, 41%);
+    position: relative;
+    bottom: 4cm;
+    right: 4cm;
+    font-size: 1.2rem;
+    height: 30%;
+    width: 500px;
+    line-height: 0.7cm;
+    
+
+}
+.svg1{
+   display: flex;
+   position: relative;
+   top: 15.5cm;
+   right: 17.2cm;
+}
+
+.svg3{
+   display: flex;
+   position: relative;
+   top: 11.3cm;
+   right: 13cm;
+}
+
+.svg5{
+    display: flex;
+    position: relative;
+    top: 7.5cm;
+    right: 6.4cm;
+}
+.svg6{
+    display: flex;
+    position: relative;
+    top: 3.6cm;
+    right: 9.9cm;
+}
+.Snap{
+    display: flex;
+    position: relative;
+    bottom: 19.3cm;
+    right: 23.7cm;
+
+}
+.features{
+  color: hsl(0, 0%, 41%);
+  display: flex;
+  position: relative;
+  bottom: 1.1cm;
+  right: 6cm;
+  font-family: 'Epilogue', sans-serif;
+}
+.company{
+    color: hsl(0, 0%, 41%);
+    font-family: 'Epilogue', sans-serif;
+    display: flex;
+    position: relative;
+    bottom: 4.6em;
+    right: 2.2cm;
+}
+.careers{
+    color: hsl(0, 0%, 41%);
+    font-family: 'Epilogue', sans-serif;
+    display: flex;
+    position: relative;
+    bottom: 2.8cm;
+    left: 1.8cm;
+}
+.about{
+    color: hsl(0, 0%, 41%);
+    font-family: 'Epilogue', sans-serif;
+    display: flex;
+    position: relative;
+    bottom: 3.7cm;
+    left: 5.5cm;
+}
+.login{
+    color: hsl(0, 0%, 41%);
+    font-family: 'Epilogue', sans-serif;
+    display: flex;
+    position: relative;
+    bottom: 4.5cm;
+    left: 25cm;
+}
+.register{
+    font-family: 'Epilogue', sans-serif;
+    display: flex;
+    position: relative;
+    bottom: 5.3cm;
+    left: 27.5cm;
+    color: hsl(0, 0%, 41%);
+}
+.boite-de-register{
+    border: 1px solid hsl(0, 0%, 41%);
+    position: relative;
+    bottom: 22cm;
+    left: 27cm;
+    height: 40px;
+    width: 100px;
+    border-bottom-left-radius: 0.9rem;
+    border-top-left-radius: 0.9rem;
+    border-bottom-right-radius: 0.9rem;
+    border-top-right-radius: 0.9rem;
+}
+.down{
+   color: hsl(0, 0%, 41%);
+   position: relative;
+   top: 1cm;
+   right: 25.3cm;
+}
+.down1{
+    color: hsl(0, 0%, 41%);
+    position: relative;
+    top: 1cm;
+    right: 13.3cm;
+
+}
